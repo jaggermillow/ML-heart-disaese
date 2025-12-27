@@ -69,4 +69,4 @@ Danial Pourrashidi Alibeiglou,
 
 Thanks to Enes Gorgulu.
 
-Github Link:
+Github Link: https://github.com/jaggermillow/ML-heart-disaese.git
