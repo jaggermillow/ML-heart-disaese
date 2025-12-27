@@ -57,4 +57,4 @@ Lojistik regresyon modeli, test verisinde %82.93 doğruluk oranı elde etmiştir
 
 Danial Pourrashidi Alibeiglou,
 
-Thanks to Enes Gorgulu
+Thanks to Enes Gorgulu.
