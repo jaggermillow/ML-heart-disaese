@@ -2,7 +2,11 @@
 
 
 **Öğrencinin adı-soyadı:** *Danial Pourrashidi Alibeiglou*
+
+
 **Ders adi:** *Yapay zeka ve Makine Öğrenimine giriş*
+
+
 **Öğrenci numarası:** 250121007
 
 
